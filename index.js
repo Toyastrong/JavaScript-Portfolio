@@ -61,6 +61,7 @@ function checkInputs() {
         setSuccessFor(passwordtwo)
     }
 
+
 }
 
 function setErrorFor(input, message) {
